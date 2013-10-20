@@ -1,4 +1,4 @@
 Franx
 ======
 
-Java helper libarary to access GMail using JavaMail
+Java helper library to access GMail using JavaMail
